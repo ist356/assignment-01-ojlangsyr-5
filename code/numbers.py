@@ -11,4 +11,14 @@ For example, if the input is:
 The output should be:
 {'odd': [3, 5], 'even': [2, 4, 6]}
 '''
-
+even=[]
+odd=[]
+while True:
+    value=int(input("Please enter a number"))
+    if value == 0:
+        break
+    if value % 2 == 0:
+        even.append(value)
+    else:
+        odd.append(value)
+print(f"{{'odd': {odd}, 'even': {even}}}")
