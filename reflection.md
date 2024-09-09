@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Oliver Lang
+Sudent Email:  ojlang@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+It took me a few iterations, but I ended up getting the solution fairly easily. Honestly my biggest confusion was how to get remainders, as I had simply forgotten the % symbol. Beyond that, it was a decent refresher for loops.
